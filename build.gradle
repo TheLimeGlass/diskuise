@@ -59,7 +59,7 @@ dependencies {
 
 	implementation (group: 'me.libraryaddict.disguises', name: 'libsdisguises', version: '11.0.0')
 	implementation (group: 'net.dmulloy2', name: 'ProtocolLib', version: '5.4.0')
-	compileOnly("com.github.retrooper:packetevents-spigot:2.9.3")
+	compileOnly("com.github.retrooper:packetevents-spigot:2.9.4")
 
 	// Skript
 	implementation (group: 'com.github.SkriptLang', name: 'Skript', version: '2.12.1') {
