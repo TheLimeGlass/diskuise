@@ -68,7 +68,7 @@ dependencies {
 
 	// Adventure API serializer to text components for Bukkit.
 	implementation (group: 'net.kyori', name: 'adventure-text-serializer-bungeecord', version: '4.4.1')
-	implementation (group: 'net.kyori', name: 'adventure-text-serializer-gson', version: '4.23.0')
+	implementation (group: 'net.kyori', name: 'adventure-text-serializer-gson', version: '4.24.0')
 	implementation (group: 'net.kyori', name: 'adventure-platform-bukkit', version: '4.4.1')
 
 }
