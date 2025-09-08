@@ -62,7 +62,7 @@ dependencies {
 	compileOnly("com.github.retrooper:packetevents-spigot:2.9.5")
 
 	// Skript
-	implementation (group: 'com.github.SkriptLang', name: 'Skript', version: '2.12.1') {
+	implementation (group: 'com.github.SkriptLang', name: 'Skript', version: '2.12.2') {
 		transitive = false
 	}
 
